@@ -14,8 +14,11 @@ This is my 'top-level' repo for the following submodules
 ` git submodule add -b fipy-bitstreams git@github.com:sealablab/fipy-bitstreams.git ./fipy-bitstreams`
 **fipy-bitstreams** is a fork of the upstream [moku-examples](https://github.com/liquidinstruments/moku-examples)
 
+# Getting Started
 
 ``` bash
+git clone git@github.com:sealablab/moku-fi-py-workspace.git
+cd moku-fipy-workspace
 git submodule init
 git submodule update
 ```
