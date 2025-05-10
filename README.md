@@ -1,17 +1,16 @@
 # [Workspace.md.tig](https://github.com/sealablab/Workspace.md.tig)
 How johnny builds his `workspace` from git submodules. 
 
-## [Moku-Examples](https://github.com/sealablab/moku-examples) (Sealablab fork)
-Sealablabs fork of the upstream moku-examples repo
-`git submodule add git@github.com:sealablab/moku-examples.git ./01-moku-examples``
+## [fipy-bitstreams](https://github.com/sealablab/fipy-bitstreams/tree/fipy-bitstreams)
+` git submodule add -b fipy-bitstreams git@github.com:sealablab/fipy-bitstreams.git ./fipy-bitstreams`
 
 ## [VHDL-Vault](https://github.com/sealablab/VHDL-Vault) 
 Sealablab all-purpose VHDL vault
 `git submodule add git@github.com:sealablab/VHDL-Vault.git ./20-VHDL-Vault`
 
-## [Moku-FI](https://github.com/sealablab/Moku-FI) 
-First-class Fault-Injection utilities for the Moku-Go. 
-`git submodule add git@github.com:sealablab/Moku-FI.git ./40-Moku-FI`
+## [Moku-Fi-Py](https://github.com/sealablab/Moku-Fi-Py) 
+Python code to run the bitstreams
+`git submodule add git@github.com:sealablab/Moku-Fi-Py.git ./Moku-Fi-Py`
 
 ``` bash
 git submodule init
