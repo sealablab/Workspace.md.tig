@@ -1,1 +1,8 @@
 
+[submodule "fipy-bitstreams"]
+	path = fipy-bitstreams
+	url = git@github.com:sealablab/fipy-bitstreams.git
+	branch = fipy-bitstreams
+[submodule "moku-fi-py"]
+	path = moku-fi-py
+	url = git@github.com:sealablab/Moku-Fi-Py.git
