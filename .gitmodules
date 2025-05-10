@@ -1,0 +1,9 @@
+[submodule "01-moku-examples"]
+	path = 01-moku-examples
+	url = git@github.com:sealablab/moku-examples.git
+[submodule "20-VHDL-Vault"]
+	path = 20-VHDL-Vault
+	url = git@github.com:sealablab/VHDL-Vault.git
+[submodule "40-Moku-FI"]
+	path = 40-Moku-FI
+	url = git@github.com:sealablab/Moku-FI.git
