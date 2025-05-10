@@ -1,5 +1,5 @@
 # [moku-fi-py-workspace](https://github.com/sealablab/Workspace.md.tig)
-How johnny builds his `workspace` from git submodules. 
+How johnny builds his moku-fi-py `workspace` from git submodules. 
 
 ## [fipy-bitstreams](https://github.com/sealablab/fipy-bitstreams/tree/fipy-bitstreams)
 ` git submodule add -b fipy-bitstreams git@github.com:sealablab/fipy-bitstreams.git ./fipy-bitstreams`
