@@ -9,3 +9,6 @@
 [submodule "moku-go"]
 	path = Moku-Go
 	url = git@github.com:sealablab/Moku-Go.git
+[submodule "moku-dev"]
+	path = Moku-Dev
+	url = git@github.com:sealablab/Moku-Dev.git
