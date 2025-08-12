@@ -6,3 +6,6 @@
 [submodule "moku-fi-py"]
 	path = moku-fi-py
 	url = git@github.com:sealablab/Moku-Fi-Py.git
+[submodule "moku-go"]
+	path = Moku-Go
+	url = git@github.com:sealablab/Moku-Go.git
